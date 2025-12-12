@@ -1,0 +1,23 @@
+# Vision-Based Desktop Automation Dependencies
+# Install with: pip install -r requirements.txt
+# Requires Python 3.9+
+
+# Core automation
+pyautogui>=0.9.54
+pillow>=10.0.0
+mss>=9.0.0
+pyperclip>=1.8.0
+
+# VLM APIs
+openai>=1.0.0
+google-generativeai>=0.8.0
+anthropic>=0.40.0
+
+# HTTP client
+requests>=2.31.0
+
+# Windows-specific
+pywin32>=306
+
+# Configuration
+python-dotenv>=1.0.0
