@@ -127,12 +127,6 @@ src/
 - Multi-language OCR for international systems
 - Could add LLM fallback for fuzzy matching if needed
 
-## 📸 Deliverables
-
-- ✅ Source code with clear structure
-- ✅ `uv` configuration (`pyproject.toml`)
-- ✅ Annotated screenshots saved to `screenshots/` directory
-
 ## 📄 License
 
 MIT
